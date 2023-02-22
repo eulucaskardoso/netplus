@@ -40,6 +40,7 @@ header p{
 header h3{
     color  : #ff0000;
     font-size: 1.35rem;
+    margin 16px;
 }
 main{
     display: flex;
