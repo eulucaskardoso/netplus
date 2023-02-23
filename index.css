@@ -69,7 +69,7 @@ color: #B22222;
     font-size: 0.85rem;
     padding: 15px 0;   
 }
-footer a{
+.footer a{
     text-decoration: none;
 }
 @media(max-width:520px){
