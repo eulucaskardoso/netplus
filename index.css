@@ -76,14 +76,15 @@ color: #B22222;
         padding:30px;
     }
     header img{
-        width: 170px;
+        width: 160px;
     }
     header h3{
         font-size: 1.3rem;
-        margin: 16px;
+        margin 16px;
     }
+    
     main{
-        gap: 15px;
+        gap: 25px;
     }
     main a{
         padding: 10px 0;
@@ -91,3 +92,4 @@ color: #B22222;
     }
 
 }
+  
